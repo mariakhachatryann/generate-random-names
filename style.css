@@ -1,0 +1,23 @@
+.btn{
+  border: none;
+	border-radius: 8px;
+	background:linear-gradient(blue, deeppink);
+	padding: 10px 30px;
+	color: #fff;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.man{
+  color:blue;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 5px;
+}
+
+.woman{
+  color: deeppink;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 5px;
+}
